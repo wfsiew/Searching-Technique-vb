@@ -1,0 +1,11 @@
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.exe.config
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.exe
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.pdb
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.xml
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.exe.CodeAnalysisLog.xml
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\bin\Release\AI_Assgmt.exe.lastcodeanalysissucceeded
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\obj\Release\AI_Assgmt.Resources.resources
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\obj\Release\AI_Assgmt.vbproj.GenerateResource.Cache
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\obj\Release\AI_Assgmt.exe
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\obj\Release\AI_Assgmt.xml
+F:\vs_Projects\AI_Assgmt\AI_Assgmt\obj\Release\AI_Assgmt.pdb
